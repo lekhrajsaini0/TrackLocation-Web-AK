@@ -1,18 +1,32 @@
-# OpenLayers + Vite
+# TrackLocation-Web
 
-This example demonstrates how the `ol` package can be used with [Vite](https://vitejs.dev/).
+This app is basically to show the Location of Mobile devices.
 
-To get started, run the following (requires Node 14+):
+In this app we use OpenLayer 
 
-    npx create-ol-app my-app --template vite
+steps to use openLayer: </br>
+npm create ol-app my-app </br>
+cd my-app </br>
+npm start
 
-Then change into your new `my-app` directory and start a development server (available at http://localhost:5173):
+To run the app in your Local Machine
+</br>
+first clone the repo
+<br>
+go to root directory
+<br>
 
-    cd my-app
-    npm start
+then run the following command
 
-To generate a build ready for production:
+</br>
+npm install </br>
 
-    npm run build
+npm start
 
-Then deploy the contents of the `dist` directory to your server.  You can also run `npm run serve` to serve the results of the `dist` directory for preview.
+This will run the the app on the following port
+
+http://localhost:5173/
+
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/83634395/226643826-011d3746-6e22-4c71-8b64-1a5f2ceec31a.png">
+
+
